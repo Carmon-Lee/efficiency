@@ -13,3 +13,7 @@ alias gre='git reset HEAD'
 
 alias gp1='git stash push -m "temp"'
 alias gp2='git stash pop'
+
+alias ga='git add .'
+alias gm='git commit -m '
+
